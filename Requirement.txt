@@ -1,0 +1,12 @@
+Requirement
+
+requests
+BeautifulSoup
+pandas
+numpy
+matplotlib
+seaborn
+psycopg2
+scipy
+scikit-learn
+joblib
